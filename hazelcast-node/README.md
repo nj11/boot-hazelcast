@@ -15,7 +15,7 @@
 
 ```http://localhost:8083/books/ISBN123```
 
-### Application startup hazel cast 
+### Application startup hazelcast log preview 
 ```
 2021-04-14 13:43:05.977  INFO 3032 --- [           main] com.hazelcast.system                     : [192.168.86.23]:5702 [dev] [3.11] Hazelcast 3.11 (20181023 - 1500bbb) starting at [192.168.86.23]:5702
 2021-04-14 13:43:05.979  INFO 3032 --- [           main] com.hazelcast.system                     : [192.168.86.23]:5702 [dev] [3.11] Copyright (c) 2008-2018, Hazelcast, Inc. All Rights Reserved.
