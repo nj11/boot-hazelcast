@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -54,6 +57,7 @@
     <option name="width" value="3860" />
     <option name="height" value="2080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -65,11 +69,6 @@
             <path>
               <item name="hazelcast-node" type="b2602c69:ProjectViewProjectNode" />
               <item name="hazelcast-node" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hazelcast-node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hazelcast-node" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,16 +140,15 @@
       <option name="presentableId" value="Default" />
       <updated>1618413321702</updated>
       <workItem from="1618413325630" duration="8950000" />
-      <workItem from="1618426114973" duration="400000" />
+      <workItem from="1618426114973" duration="677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9350000" />
+    <option name="totallyTimeSpent" value="9627000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1544" height="832" extended-state="1" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="1544" height="832" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -158,9 +156,9 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.35868102" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.35868102" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.4017094" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.47293448" />
       <window_info anchor="bottom" id="Docker" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="3" />
